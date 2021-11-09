@@ -1,0 +1,100 @@
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\stud219\Desktop\Артём Грачёв И-3.1\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Новая папка (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Новая папка (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Новая папка (2)\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Новая папка (2)\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\stud220\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\stud220\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\stud220\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\stud220\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\stud220\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\stud220\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\stud220\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\stud220\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\stud220\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\stud220\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\stud220\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\stud220\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\study\3 year\кс_помощь\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\study\3 year\кс_помощь\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\study\3 year\кс_помощь\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\study\3 year\кс_помощь\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\study\3 year\кс_помощь\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\study\3 year\кс_помощь\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\study\3 year\кс_помощь\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\study\3 year\кс_помощь\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\study\3 year\кс_помощь\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\study\3 year\кс_помощь\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\study\3 year\кс_помощь\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\study\3 year\кс_помощь\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\study\3 year\ks\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\study\3 year\ks\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\study\3 year\ks\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Autefic.resources
+D:\study\3 year\ks\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Reg.resources
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Autefic.resources
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Reg.resources
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\study\3 year\ks--I--3.2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
